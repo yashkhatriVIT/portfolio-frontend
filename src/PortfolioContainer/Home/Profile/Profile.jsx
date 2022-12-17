@@ -22,8 +22,6 @@ export default function Profile() {
                   2000,
                   "Problem Solver",
                   2000,
-                  "MERN Stack developer",
-                  2000,
                 ]}
               ></Typical>
             </h1>
