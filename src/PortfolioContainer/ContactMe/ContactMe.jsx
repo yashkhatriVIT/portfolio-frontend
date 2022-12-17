@@ -22,7 +22,7 @@ function ContactMe() {
         e.preventDefault();
         console.log(formDetails);
         setBtnText("Sending...")
-        let response = await fetch("http://localhost:8093/contact", {
+        let response = await fetch("https://mail-service-zvfh.onrender.com/contact", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json;charset=utf-8",
