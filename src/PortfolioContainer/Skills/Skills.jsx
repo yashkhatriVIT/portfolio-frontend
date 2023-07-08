@@ -54,6 +54,10 @@ function Skills() {
                             </div>
                             <div className="item">
                                 <img src="/images/meter2.svg" alt="" /> 
+                                <h5>React</h5>
+                            </div>
+                            <div className="item">
+                                <img src="/images/meter2.svg" alt="" /> 
                                 <h5>Springboot</h5>
                             </div>
                         </Carousel>

@@ -6,10 +6,10 @@ import './Projects.css'
 function Projects() {
   const projects = [
     {
-      title: "Created Portfolio Application",
-      desc: "using React",
-      url: '/images/me.png',
-      link: '#'
+      title: "E-stock Management",
+      desc: "using React and Spring boot",
+      url: '/images/E-stock.png',
+      link: 'https://github.com/yashkhatriVIT/e-stock'
     },
     {
       title: "Created a Burger Builder Applicaiton",
